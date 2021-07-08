@@ -6,11 +6,11 @@
 <a href="https://t.me/SDBOTs_inifinity"><img align='centre' src='https://telegra.ph/file/3f26caedf78426a80e055.jpg' width='500"'> </a>
 
 Join Our Groups And Channels <br>
-- 📢 Join [Updates Channel](https://t.me/slhitbotofficial)
+- 📢 Join [Updates Channel](https://t.me/SDBOTs_inifinity)
 - 📢 Join [Anki Vector Updates](https://t.me/ankivectorUpdates)
-- 👥 Join [Support Group](https://t.me/slhitofficialbot)
-- 👥 Join [BrecLand Group](https://t.me/SLTBrecLand)
-- 👥 Join [Chat With Friends](https://t.me/joingrouplk)
+- 🔥 Join [Support Group](https://t.me/SDBOTz)
+- 🔥 Join [BrecLand Group](https://t.me/SLTBrecLand)
+- 🔥 Join [🇱🇰 ₮ⱧɆ 🅵🆁🅸🅴🅽🅳🆂 ℂ𝕃𝕌𝔹 ♥️](https://t.me/joingrouplk)
 
 
 
