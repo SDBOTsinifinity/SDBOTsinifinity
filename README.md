@@ -57,4 +57,3 @@ Join Our Groups And Channels <br>
 
 - A Co-Developer of Project [sadew](https://github.com/sadew451)
 - A Co-Developer of Project [Damantha](https://github.com/Damantha126)
-- A Co-Developer of Project [Dihan](https://github.com/dihanrandila1)
