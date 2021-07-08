@@ -20,13 +20,13 @@ Join Our Groups And Channels <br>
 
 
 ### My Github Status
-![Sl Bot Official's github stats](https://github-readme-stats.vercel.app/api?username=slbotofficial11&show_icons=true&theme=midnight-purple)
-- ![Profile views](https://gpvc.arturio.dev/slbotofficial11)
-- [![GitHub followers](https://img.shields.io/github/followers/slbotofficial11.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/slbotofficial11?tab=followers)
+![Sl Bot Official's github stats](https://github-readme-stats.vercel.app/api?username=SDBOTsinifinity&show_icons=true&theme=midnight-purple)
+- ![Profile views](https://gpvc.arturio.dev/SDBOTsinifinity)
+- [![GitHub followers](https://img.shields.io/github/followers/slbotofficial11.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SDBOTsinifinity?tab=followers)
 
 
 
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slbotofficial11&theme=alduin" alt="slbotofficial11" /></a> </p>
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SDBOTsinifinity&theme=alduin" alt="SDBOTsinifinity" /></a> </p>
 
 
 
@@ -53,7 +53,7 @@ Join Our Groups And Channels <br>
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=slbotofficial11&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=SDBOTsinifinity&theme=dark&show_icons=true)
 
 - A Co-Developer of Project [sadew](https://github.com/sadew451)
 - A Co-Developer of Project [Damantha](https://github.com/Damantha126)
