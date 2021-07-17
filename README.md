@@ -29,11 +29,7 @@ Join Our Groups And Channels <br>
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SDBOTsinifinity&theme=alduin" alt="SDBOTsinifinity" /></a> </p>
 
 
-
-
-
-
-
+<a href="https://github.com/SDBOTsinifinity"><img alt="sadew's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sadew451&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
