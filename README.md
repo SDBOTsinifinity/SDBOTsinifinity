@@ -3,7 +3,7 @@
 
 <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
-<a href="https://t.me/SDBOTs_inifinity"><img align='centre' src='https://telegra.ph/file/d5000b20e7d7036106c6e.jpg' width='500"'> </a>
+<a href="https://t.me/SDBOTs_inifinity"><img align='centre' src='https://telegra.ph/file/6727fe0d9075207d34507.jpg' width='500"'> </a>
 |  <a href="https://t.me/darkridersslk/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity/)**                                                                                |
