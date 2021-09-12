@@ -7,7 +7,7 @@
 |  <a href="https://t.me/darkridersslk/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity/)**                                                                                |
-| <a href="https://github.com/SDBOTsinifinity"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> 
+| <a href="https://github.com/SDBOTsinifinity"><img src="https://telegra.ph/file/3ae6aeb7e342a0be0929f.png" width="32px" height="32px"></a> 
 
 
 Join Our Groups And Channels <br>
